@@ -1,0 +1,38 @@
+h2{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    color: tomato;
+}
+
+.web-container{
+    display: flex;
+    justify-content: center;
+}
+
+.web-container iframe{
+    height: 50vh;
+}
+
+/****************/
+
+.video{
+    text-align: center;
+}
+
+.video iframe{
+    width: 560px;
+    height: 315px;
+}
+
+/*******************/
+
+.links iframe{
+    width: 100%;
+}
+
+/*********************/
+
+.google-map iframe{
+    width: 100%;
+}
